@@ -18,9 +18,9 @@ data = pd.read_csv("/content/SampleData.csv", encoding= 'unicode_escape',index_c
 
 data.describe()
 
-"""What is lead score in Salesforce?
-Image result for what is lead score in leads
-Lead scoring is an effective model that helps sales and marketing departments identify which prospects are potentially most valuable to the company and its current sales funnel. A lead scoring system only works when it is properly set up and used on a regular basis.
+
+
+#Lead scoring is an effective model that helps sales and marketing departments identify which prospects are potentially most valuable to the company and its current sales funnel. A lead scoring system only works when it is properly set up and used on a regular basis.
 
 """
 
